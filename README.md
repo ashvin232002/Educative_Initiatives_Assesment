@@ -29,11 +29,16 @@ Develop a Terminal-based Virtual Classroom Manager for an EdTech platform. The s
 ![submit_assignment](https://github.com/ashvin232002/Educative_Initiatives_Assesment/assets/120255875/d317d625-02ca-4b57-b339-047d40b753ba)
 
 
--------------------------------------------------------------------------------OUTPUT USING DATABASE--------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------OUTPUT USING DATABASE--------------------------------------------------------------------------------------------------
+
 --Add classroom using node + mongoDB
+<br/>
 ![Add_classroom](https://github.com/ashvin232002/Educative_Initiatives_Assesment/assets/120255875/0d8ddfd6-5cc0-4fc9-8dfe-ff4f13dc88aa)
+<br/>
 --List classroom Using node + mongoDB
+<br/>
 ![list_classrooms](https://github.com/ashvin232002/Educative_Initiatives_Assesment/assets/120255875/5ace0cfb-2fcb-4ba1-a7d3-582e57ba9e8b)
+<br/>
 --List all Functionalities using node + mongoDB
+<br/>
 ![All_functinalities](https://github.com/ashvin232002/Educative_Initiatives_Assesment/assets/120255875/90bccde9-b9ee-4285-99bc-5f1ae62b40ee)
